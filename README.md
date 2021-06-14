@@ -1,1 +1,1 @@
-# VgradliviMikroprocesorskiSistemi---proekt
+# Вградливи микропроцесорски системи - проект
