@@ -7,5 +7,5 @@ L298N Motor Driver  \
 2x Мотори
 
 ### Софтверски пакети
-Arduino IDE
+Arduino IDE  \
 Blynk - Локален сервер, програм за комункикација со контролерот преку телефон и библиотека во Arduino. https://blynk.io
